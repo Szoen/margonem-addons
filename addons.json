@@ -1,0 +1,44 @@
+[
+  {
+    "id": "margonem_anti_stasis",
+    "name": "Margonem Anti-Stasis (AFK Ghost Dismisser)",
+    "description": "Automatically detects and dismisses the AFK/stasis state in Margonem by simulating movement. Runs silently in background.",
+    "fileName": "margonem_anti_stasis.js"
+  },
+  {
+    "id": "margonem_auto_attacker",
+    "name": "Margonem NI Mob Auto-Attacker",
+    "description": "Listens for a specific mob, simulates canvas clicks to walk to it and attack in Margonem NI.",
+    "fileName": "margonem_auto_attacker.js"
+  },
+  {
+    "id": "margonem_e2_auto_attacker",
+    "name": "Margonem NI E2 Auto-Attacker",
+    "description": "Listens for Elite 2 (E2) mobs, simulates canvas clicks to walk to them and attack in Margonem NI.",
+    "fileName": "margonem_e2_auto_attacker.js"
+  },
+  {
+    "id": "margonem_mob_id_displayer",
+    "name": "Margonem NI Mob ID Displayer",
+    "description": "Displays template and spawn IDs above all NPCs on the map in Margonem NI with a premium glassmorphic control HUD.",
+    "fileName": "margonem_mob_id_displayer.js"
+  },
+  {
+    "id": "margonem_mob_notifier",
+    "name": "Margonem NI Mob Notifier",
+    "description": "Monitors Margonem maps for Heros and Titans and sends rich Discord webhook notifications with role/user pings. Features a premium glassmorphic control HUD.",
+    "fileName": "margonem_mob_notifier.js"
+  },
+  {
+    "id": "margonem_route_recorder",
+    "name": "Margonem NI Exp Spot Route Recorder",
+    "description": "Records attackable mobs and gateway transitions to auto-generate Exp Spot configurations.",
+    "fileName": "margonem_route_recorder.js"
+  },
+  {
+    "id": "margonem_star_button_clicker",
+    "name": "Margonem Star Button Auto-Clicker",
+    "description": "Automatically clicks any button/element containing a '*' symbol when it appears in Margonem.",
+    "fileName": "margonem_star_button_clicker.js"
+  }
+]

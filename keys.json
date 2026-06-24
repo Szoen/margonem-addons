@@ -1,0 +1,12 @@
+[
+  {
+    "hash": "c30b6562d18408124b656c2583b9ce6001402d51a7d179966871a47dcbfb0859",
+    "owner": "Developer",
+    "expires": "2030-12-31"
+  },
+  {
+    "hash": "7b29495b176a0bed186be37b26ae4125766a31eeb24104c0b3f43a372d430121",
+    "owner": "Premium User",
+    "expires": "2027-06-30"
+  }
+]
