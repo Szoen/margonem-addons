@@ -1,32 +1,32 @@
 [
   {
     "id": "margonem_anti_stasis",
-    "name": "Margonem Anti-Stasis (AFK Ghost Dismisser)",
-    "description": "Automatically detects and dismisses the AFK/stasis state in Margonem by simulating movement. Runs silently in background.",
+    "name": "Anti-Ghost",
+    "description": "",
     "fileName": "margonem_anti_stasis.js"
   },
   {
     "id": "margonem_ni_e2_auto_attacker",
-    "name": "Margonem NI E2 Auto-Attacker",
-    "description": "Listens for Elite 2 (E2) mobs, simulates canvas clicks to walk to them and attack in Margonem NI.",
+    "name": "E2",
+    "description": "",
     "fileName": "margonem_ni_e2_auto_attacker.js"
   },
   {
     "id": "margonem_ni_mob_auto_attacker",
-    "name": "Margonem NI Mob Auto-Attacker",
-    "description": "Listens for a specific mob, simulates canvas clicks to walk to it and attack in Margonem NI.",
+    "name": "Exp",
+    "description": "",
     "fileName": "margonem_ni_mob_auto_attacker.js"
   },
   {
     "id": "margonem_ni_mob_notifier",
-    "name": "Margonem NI Mob Notifier",
-    "description": "Monitors Margonem maps for Heros and Titans and sends rich Discord webhook notifications with role/user pings. Features a premium glassmorphic control HUD.",
+    "name": "Heros notifier",
+    "description": "",
     "fileName": "margonem_ni_mob_notifier.js"
   },
   {
     "id": "margonem_ni_path_follower",
-    "name": "Margonem NI Path Follower",
-    "description": "Follows configured waypoint routes and gateway transitions without attacking.",
+    "name": "Heros finder",
+    "description": "TBA",
     "fileName": "margonem_ni_path_follower.js"
   }
 ]
