@@ -1,7 +1,7 @@
 [
   {
     "id": "margonem_anti_stasis",
-    "name": "Margonem Anti-Stasis (AFK Ghost Dismisser)",
+    "name": "AntiGhost",
     "description": "Automatically detects and dismisses the AFK/stasis state in Margonem by simulating movement. Runs silently in background.",
     "fileName": "margonem_anti_stasis.js"
   },
